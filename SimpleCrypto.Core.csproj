@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>SimpleCrypto.net的.net core打包
+https://github.com/shawnmclean/SimpleCrypto.net</Description>
+    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://github.com/hyfree/SimpleCrypto.Core</PackageProjectUrl>
+    <Authors>hyfree</Authors>
+    <PackageId>github.hyfree.SimpleCrypto.Core</PackageId>
   </PropertyGroup>
 
 </Project>
